@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jamesspitz.github.io/JS-App",
-  "name": "personalwebsite",
+  "homepage": "https://jamesspitz.github.io/JS-App/",
+  "name": "JS-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
