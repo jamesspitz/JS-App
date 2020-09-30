@@ -1,6 +1,6 @@
 {
   "homepage": "https://jamesspitz.github.io/JS-App/",
-  "name": "JS-App",
+  "name": "personalwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,6 @@
     "typeface-roboto": "0.0.75"
   },
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -40,8 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "clsx": "^1.1.1"
   }
 }
