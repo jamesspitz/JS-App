@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/JS-App/static/css/main.39c29b59.chunk.css",
+    "main.js": "/JS-App/static/js/main.e65c388d.chunk.js",
+    "main.js.map": "/JS-App/static/js/main.e65c388d.chunk.js.map",
+    "runtime-main.js": "/JS-App/static/js/runtime-main.a1589045.js",
+    "runtime-main.js.map": "/JS-App/static/js/runtime-main.a1589045.js.map",
+    "static/js/2.7445faff.chunk.js": "/JS-App/static/js/2.7445faff.chunk.js",
+    "static/js/2.7445faff.chunk.js.map": "/JS-App/static/js/2.7445faff.chunk.js.map",
+    "index.html": "/JS-App/index.html",
+    "precache-manifest.518fdd06baebd80eb3144196aadffc1b.js": "/JS-App/precache-manifest.518fdd06baebd80eb3144196aadffc1b.js",
+    "service-worker.js": "/JS-App/service-worker.js",
+    "static/css/main.39c29b59.chunk.css.map": "/JS-App/static/css/main.39c29b59.chunk.css.map",
+    "static/js/2.7445faff.chunk.js.LICENSE.txt": "/JS-App/static/js/2.7445faff.chunk.js.LICENSE.txt",
+    "static/media/DBLayoutWUD.png": "/JS-App/static/media/DBLayoutWUD.f4127463.png",
+    "static/media/ProfilePicture1.png": "/JS-App/static/media/ProfilePicture1.ecbad849.png",
+    "static/media/WUDMobileSample.png": "/JS-App/static/media/WUDMobileSample.043bbfa8.png",
+    "static/media/WUDSiteSample.png": "/JS-App/static/media/WUDSiteSample.656887a4.png",
+    "static/media/mountain.jpg": "/JS-App/static/media/mountain.3e9c6993.jpg",
+    "static/media/mountain.jpeg": "/JS-App/static/media/mountain.63d66d3d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1589045.js",
+    "static/js/2.7445faff.chunk.js",
+    "static/css/main.39c29b59.chunk.css",
+    "static/js/main.e65c388d.chunk.js"
+  ]
+}
