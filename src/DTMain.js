@@ -129,7 +129,7 @@ const DTMain = () => {
                    <img onClick={event =>  window.open('https://github.com/jamesspitz', '_blank')} style={{cursor: 'pointer'}} src={Github} alt={"Github"} className={classes.iconGHEM}/>
                 </Grid>
                 <Grid item xs={6} sm={3} md={3} lg={3}>
-                    <img onClick={event =>  window.open('https://www.linkedin.com/in/', '_blank')} style={{cursor: 'pointer'}} src={LinkedIn} alt={"LinkedIn"} className={classes.iconLI}/>
+                    <img onClick={event =>  window.open('https://www.linkedin.com/in/jimmy-spitz-552a8b17a/', '_blank')} style={{cursor: 'pointer'}} src={LinkedIn} alt={"LinkedIn"} className={classes.iconLI}/>
                 </Grid>
                 <Grid item xs={6} sm={3} md={3} lg={3}>
                     <img onClick={event =>  window.open("mailto:james.spitz1@gmail.com")} src={Email} style={{cursor: 'pointer'}} alt={"Email"} className={classes.iconGHEM}/>
